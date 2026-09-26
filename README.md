@@ -8,7 +8,7 @@
 ## 🚀 서비스 소개
 - 장소에 얽힌 추억을 사람들과 나눌 수 있는 플랫폼  
 - 편지함은 직접 방문해야만 생성/작성/열람 가능  
-- **쉽게 메시지가 전달되는 사회 속에서 잊힌 ‘기다림과 설렘의 가치’**를 되살리고자 했습니다.
+- **쉽게 메시지가 전달되는 사회 속에서 잊힌 ‘기다림과 설렘의 가치’** 를 되살리고자 했습니다.
 -  배포 링크 : https://konkuk-hackathon-2025-qu2t.vercel.app
 - 시연 영상 : https://drive.google.com/file/d/1-hOgzWM4Egt2qjyu8tHkxfEhXrVvpGrv/view?usp=sharing
 
